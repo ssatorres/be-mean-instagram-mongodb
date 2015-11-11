@@ -1,0 +1,5 @@
+db.pokemons.insert({'name':'Zubat','description':'Morcego troll','type': 'flying', 'attack': 45, height: 8, 'defense': 35});
+db.pokemons.insert({'name':'Nidoqueen','description':'Cantor de banda famosa','type': 'poison', 'attack': 92, height: 13, 'defense': 87});
+db.pokemons.insert({'name':'Bulbassauro','description':'Chicote de trepadeira','type': 'grama', 'attack': 49, height: 0.4, 'defense': 49});
+db.pokemons.insert({'name':'Charmander','description':'Esse é o cão chupando manga de fofinho','type': 'fogo', 'attack': 52, height: 0.6, 'defense': 43 });
+db.pokemons.insert({'name':'Squirtle','description':'Ejeta água que passarinho não bebe','type': 'água', 'attack': 48, height: 0.5, 'defense': 65 });
