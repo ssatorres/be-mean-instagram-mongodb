@@ -127,4 +127,12 @@ Air-de-SSA(mongod-3.0.7) be-mean-pokemons> poke
   "height": 0.5,
   "defense": 65
 }
+Air-de-SSA(mongod-3.0.7) be-mean-pokemons> db.pokemons.save(poke);
+Updated 1 existing record(s) in 14ms
+WriteResult({
+  "nMatched": 1,
+  "nUpserted": 0,
+  "nModified": 1
+})
+Air-de-SSA(mongod-3.0.7) be-mean-pokemons>
 ```
